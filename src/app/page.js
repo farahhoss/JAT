@@ -9,6 +9,7 @@ export default function Home() {
     <div>
       {/* <SignupPage/>
      <LoginPage/> */}
+     <LoginPage />
     </div>
   );
 }
