@@ -25,7 +25,8 @@ This is a sample Next.js project implementing user registration and login flow, 
    npm run dev
    4.Open http://localhost:3000 with your browser to see the result.
    ````
-
+## Video Demo
+(https://drive.google.com/file/d/1DvJ2xwp_RN8giJKqqMrzVOnV_7Y2gk3N/view?usp=sharing)
    ## Usage
 
 - Register a new user account or login with existing credentials.
